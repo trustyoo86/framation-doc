@@ -5,5 +5,6 @@
   * [Variables](apis/variables/README.md)
     * [cssEase](apis/variables/cssease.md)
     * [isIE](apis/variables/isie.md)
-  * [Methods](apis/methods.md)
+  * [Methods](apis/methods/README.md)
+    * [.set](apis/methods/.set.md)
 
