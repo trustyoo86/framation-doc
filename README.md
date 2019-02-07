@@ -4,7 +4,7 @@ description: Animation utility plugin using pure javascript or jquery
 
 # framation
 
-### get started
+### Installation
 
 Install using npm or yarn
 
@@ -14,6 +14,8 @@ $ npm i framation --save
 # yarn
 $ yarn i framation
 ```
+
+### Usage
 
 Added target tag in your html.
 
